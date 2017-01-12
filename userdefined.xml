@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Bruhath Bangalore Mahanagara Palike</name>
+	<description>Made available by Dhyan, Map prepared by Secon.</description>
+	<StyleMap id="A Narayanapura_LABELS1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#A Narayanapura_LABELS2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#A Narayanapura_LABELS0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="A Narayanapura_LABELS0">
+		<IconStyle>
+			<color>0d000000</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="A Narayanapura">
+		<LineStyle>
+			<color>b2000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="A Narayanapura0">
+		<LineStyle>
+			<color>b2000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f000000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="A Narayanapura2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#A Narayanapura0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#A Narayanapura</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="INFO_POINTS">
+		<IconStyle>
+			<color>bfffffff</color>
+			<scale>0.75</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon24.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+		</LabelStyle>
+	</Style>
+	<Style id="A Narayanapura_LABELS2">
+		<IconStyle>
+			<color>0d000000</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Features</name>
+		<Folder>
+			<name>Kormangala</name>
+			<Placemark>
+				<name>1</name>
+				<description><![CDATA[WARD_NO = 56<br />WARD_NAME = A Narayanapura<br />AREA_SQ_KM = 2.16<br />TOTAL_POP = 29420<br />FEMALE_POP = 14014<br />MALE_POP = 15406<br />SC = 5827<br />ST = 118<br /><br /><br /><br />]]></description>
+				<styleUrl>#A Narayanapura2</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								77.622757447466412,12.942636469303862 77.624510877710961,12.940971554180051 77.625443677596735,12.939838974335643 77.625647192668694,12.93951389858886 77.625853473714443,12.938988270869249 77.626087629286957,12.938474230321827 77.626660139862281,12.937697417709199 77.627006715383942,12.93724672128184 77.627066967872949,12.937159641303225 77.627831102893168,12.937860733376723 77.629049728743396,12.938378503326174 77.632742376214722,12.93851042935413 77.633279356727229,12.929960346474044 77.634717779922411,12.929244325658068 77.636155467429063,12.928435502282719 77.63764628873399,12.927511594807967 77.637838299791355,12.927337096319473 77.637852182524142,12.927126690160106 77.637476238618774,12.925109702654568 77.63731362943652,12.925229932112371 77.637102631551443,12.925285618828344 77.636611032021406,12.925200377180207 77.634021275647271,12.92475130618609 77.63368675527127,12.924693297426012 77.632389759717896,12.924507158294064 77.629299456145873,12.924063624348296 77.628829803820594,12.923986512164351 77.626887003502716,12.923667514427351 77.62422488429354,12.923117932777496 77.623066650779563,12.922674479178713 77.622727482105404,12.922513631472627 77.621945125964913,12.922030602584783 77.621074766732733,12.921468613227919 77.620366157101969,12.921011064552641 77.619626117879633,12.922206968301788 77.618190947393728,12.924526165772583 77.616704109752405,12.927015166300095 77.616315257848626,12.927645297275591 77.615092591746745,12.929626591993076 77.615005448924251,12.929774482914967 77.613893221314584,12.931503517507686 77.613396767120364,12.932347613550403 77.612348298006197,12.934399636099531 77.612694984168186,12.934568438312539 77.615382366507802,12.935866592958568 77.615743378433322,12.936047687702985 77.6159320894198,12.936142350665159 77.616393574832543,12.93626898393622 77.616780545119653,12.936276577911707 77.616946389535585,12.936279832296938 77.617398917917939,12.936259064351907 77.617826956765697,12.936527498133721 77.61841599853328,12.937086709654414 77.618661823996547,12.937499739255596 77.618738960080023,12.937700966158992 77.619128034291876,12.938668463788938 77.619451219486521,12.939220498191927 77.620051424780627,12.940143572227267 77.620365557486423,12.940507059291846 77.622391643651142,12.942317985860562 77.622757447466412,12.942636469303862
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
