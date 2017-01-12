@@ -3089,7 +3089,8 @@
   </Placemark>
   <Placemark>
 	<name>Indira Nagar</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<description><![CDATA[WARD_NO = 147<br />WARD_NAME = Adugodi<br />AREA_SQ_KM = 1.66<br />TOTAL_POP = 33955<br />FEMALE_POP = 16078<br />MALE_POP = 17877<br />SC = 6236<br />ST = 481<br /><br /><br /><br />]]></description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>ff0000ff</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#bangalore_loc">
 		<SimpleData name="cartodb_id">300</SimpleData>
 		<SimpleData name="type">SMALL_CITY</SimpleData>
