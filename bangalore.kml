@@ -75,7 +75,8 @@
 			<scale>0.9</scale>
 		</LabelStyle>
 	</Style>
-<Folder><name>bangalore_loc</name>
+<Folder>
+	<name>bangalore_loc</name>
   <Placemark>
 	<name>Central Reserve Police Force Area</name>
 	<description><![CDATA[WARD_NO = 147<br />WARD_NAME = Adugodi<br />AREA_SQ_KM = 1.66<br />TOTAL_POP = 33955<br />FEMALE_POP = 16078<br />MALE_POP = 17877<br />SC = 6236<br />ST = 481<br /><br /><br /><br />]]></description>
@@ -88,7 +89,8 @@
   </Placemark>
   <Placemark>
 	<name>Kenchenahalli</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>ff0000ff</color></PolyStyle></Style>
+	<description><![CDATA[WARD_NO = 147<br />WARD_NAME = Adugodi<br />AREA_SQ_KM = 1.66<br />TOTAL_POP = 33955<br />FEMALE_POP = 16078<br />MALE_POP = 17877<br />SC = 6236<br />ST = 481<br /><br /><br /><br />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#bangalore_loc">
 		<SimpleData name="cartodb_id">3</SimpleData>
 		<SimpleData name="type">SMALL_CITY</SimpleData>
