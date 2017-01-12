@@ -79,7 +79,7 @@
 			<name>Kormangala</name>
 			<Placemark>
 				<name>Kormangala</name>
-				<description><![CDATA[WARD_NO = 56<br />WARD_NAME = A Narayanapura<br />AREA_SQ_KM = 2.16<br />TOTAL_POP = 29420<br />FEMALE_POP = 14014<br />MALE_POP = 15406<br />SC = 5827<br />ST = 118<br /><br /><br /><br />]]></description>
+				<description><![CDATA[WARD_NO = 56<br />Name = Kormangala<br />AREA_SQ_KM = 2.16<br />TOTAL_POP = 29420<br />FEMALE_POP = 14014<br />MALE_POP = 15406<br />SC = 5827<br />ST = 118<br /><br /><br /><br />]]></description>
 				<styleUrl>#A Narayanapura2</styleUrl>
 				<Polygon>
 					<outerBoundaryIs>
