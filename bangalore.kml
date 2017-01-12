@@ -4538,8 +4538,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.514968829765039,12.841724857610599 77.51721927,12.84020369 77.522547246299723,12.839337024237556 77.562707063770333,12.841525149859219 77.551995567952474,12.829120415302254 77.529454817907578,12.831186661842979 77.516907028185074,12.801063658274982 77.508668995550835,12.801653237746509 77.506633709341514,12.802707570744936 77.510549198524913,12.829280751466932 77.511587504526759,12.838402789981183 77.514968829765039,12.841724857610599</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name>BTM Layout</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>50FF783C</color></PolyStyle></Style>
+	<name>BTM Layout 2</name>
+	<Style><LineStyle><color>50FF783C</color></LineStyle><PolyStyle><color>50FF783C</color></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#bangalore_loc">
 		<SimpleData name="cartodb_id">483</SimpleData>
 		<SimpleData name="type">SMALL_CITY</SimpleData>
@@ -4799,8 +4799,8 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.60519371,12.89803958 77.60583728,12.89844375 77.607235636376942,12.896979451967226 77.60857665,12.89579381 77.608874539999988,12.89557253 77.610097969999984,12.89334102 77.61051932,12.89269636 77.6097709,12.89223092 77.608320461765331,12.891602961532863 77.607000009655479,12.891205515687204 77.60581288,12.89127027 77.60482231,12.89151267 77.60450078,12.89163614 77.604479219477369,12.891804743501336 77.605353889999989,12.89431273 77.605806769999987,12.89607804 77.60487822,12.89647593 77.60519371,12.89803958</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<name>BTM Layout</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>501400FF</color></PolyStyle></Style>
+	<name>BTM Layout 1</name>
+	<Style><LineStyle><color>501400FF</color></LineStyle><PolyStyle><color>501400FF</color></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#bangalore_loc">
 		<SimpleData name="cartodb_id">515</SimpleData>
 		<SimpleData name="type">SMALL_CITY</SimpleData>
