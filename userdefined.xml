@@ -3,16 +3,6 @@
 <Document>
 	<name>Bruhath Bangalore Mahanagara Palike</name>
 	<description>Made available by Dhyan, Map prepared by Secon.</description>
-	<StyleMap id="A Narayanapura_LABELS1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#A Narayanapura_LABELS2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#A Narayanapura_LABELS0</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="A Narayanapura_LABELS0">
 		<IconStyle>
 			<color>0d000000</color>
@@ -50,29 +40,6 @@
 			<styleUrl>#A Narayanapura</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="INFO_POINTS">
-		<IconStyle>
-			<color>bfffffff</color>
-			<scale>0.75</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon24.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>00000000</color>
-		</LabelStyle>
-	</Style>
-	<Style id="A Narayanapura_LABELS2">
-		<IconStyle>
-			<color>0d000000</color>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.9</scale>
-		</LabelStyle>
-	</Style>
 	<Folder>
 		<name>Features</name>
 		<Folder>
