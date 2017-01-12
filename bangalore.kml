@@ -4539,7 +4539,7 @@
   </Placemark>
   <Placemark>
 	<name>BTM Layout</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>50FF783C</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#bangalore_loc">
 		<SimpleData name="cartodb_id">483</SimpleData>
 		<SimpleData name="type">SMALL_CITY</SimpleData>
@@ -4800,7 +4800,7 @@
   </Placemark>
   <Placemark>
 	<name>BTM Layout</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>501400FF</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#bangalore_loc">
 		<SimpleData name="cartodb_id">515</SimpleData>
 		<SimpleData name="type">SMALL_CITY</SimpleData>
