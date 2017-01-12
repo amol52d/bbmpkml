@@ -5,76 +5,6 @@
 	<SimpleField name="cartodb_id" type="int"></SimpleField>
 	<SimpleField name="type" type="string"></SimpleField>
 </Schema>
-<StyleMap id="A Narayanapura_LABELS1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#A Narayanapura_LABELS2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#A Narayanapura_LABELS0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="A Narayanapura_LABELS0">
-		<IconStyle>
-			<color>0d000000</color>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.9</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="A Narayanapura">
-		<LineStyle>
-			<color>b2000000</color>
-		</LineStyle>
-		<PolyStyle>
-			<color>7f000000</color>
-		</PolyStyle>
-	</Style>
-	<Style id="A Narayanapura0">
-		<LineStyle>
-			<color>b2000000</color>
-		</LineStyle>
-		<PolyStyle>
-			<color>7f000000</color>
-		</PolyStyle>
-	</Style>
-	<StyleMap id="A Narayanapura2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#A Narayanapura0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#A Narayanapura</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="INFO_POINTS">
-		<IconStyle>
-			<color>bfffffff</color>
-			<scale>0.75</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon24.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<color>00000000</color>
-		</LabelStyle>
-	</Style>
-	<Style id="A Narayanapura_LABELS2">
-		<IconStyle>
-			<color>0d000000</color>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.9</scale>
-		</LabelStyle>
-	</Style>
 <Folder>
 	<name>bangalore_loc</name>
   <Placemark>
@@ -89,7 +19,7 @@
   </Placemark>
   <Placemark>
 	<name>Kenchenahalli</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>ff0000ff</color></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>ff0000ff</fill></PolyStyle></Style>
 	<description><![CDATA[WARD_NO = 147<br />WARD_NAME = Adugodi<br />AREA_SQ_KM = 1.66<br />TOTAL_POP = 33955<br />FEMALE_POP = 16078<br />MALE_POP = 17877<br />SC = 6236<br />ST = 481<br /><br /><br /><br />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#bangalore_loc">
 		<SimpleData name="cartodb_id">3</SimpleData>
@@ -99,7 +29,7 @@
   </Placemark>
   <Placemark>
 	<name>SBM Colony (Near Giri Nagar)</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>ff0000ff</color></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#bangalore_loc">
 		<SimpleData name="cartodb_id">450</SimpleData>
 		<SimpleData name="type">SMALL_CITY</SimpleData>
