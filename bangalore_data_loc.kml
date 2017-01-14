@@ -3886,7 +3886,7 @@
   <description><![CDATA[Crime = 1<br />Year = 2014-2015<br />]]></description></Placemark>
   <Placemark>
 	<name>Ashwath Nagar</name>
-	<Style><LineStyle><color>506E6E6E</color></LineStyle><PolyStyle>><color>5014F0E6</color></PolyStyle></Style>
+	<Style><LineStyle><color>506E6E6E</color></LineStyle><PolyStyle><color>5014F0E6</color></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#bangalore_loc">
 		<SimpleData name="cartodb_id">400</SimpleData>
 		<SimpleData name="type">SMALL_CITY</SimpleData>
